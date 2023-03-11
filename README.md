@@ -12,9 +12,9 @@
   - 시간 : 월, 목 오전 10시
 
 ### Ver 1.0
-|주차|링크|
-|---|---|
-|1주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/3)|
+|주차|링크|출제된 문제|
+|---|---|---|
+|1주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/3)|https://github.com/Interview777/Interview_iOS/blob/main/Optional.md|
 |2주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/4)|
 |3주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/5)|
 |4주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/6)|
