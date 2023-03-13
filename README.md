@@ -26,3 +26,4 @@
 |1주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
 |2주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
 |3주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|4주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
