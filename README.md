@@ -12,18 +12,22 @@
   - 시간 : 월, 목 오전 10시
 
 ### Ver 1.0
-|주차|링크|출제된 문제|
+|회차|링크|출제된 문제|
 |---|---|---|
-|1주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/3)|[Optional](https://github.com/Interview777/Interview_iOS/blob/main/Optional.md)|
-|2주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/4)|[객체지향기본](https://github.com/Interview777/Interview_iOS/blob/main/객체지향기본.md)|
-|3주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/5)|[MVC, Observer, Initilizer](https://github.com/Interview777/Interview_iOS/blob/main/MVC%2C%20Observer%2C%20Initializer.md)|
-|4주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/6)|[Struct, Class, Singleton](https://github.com/Interview777/Interview_iOS/blob/main/구조체%2C%20클래스%2C%20Singleton.md)|
-|5주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/7)|[App Life Cycle, View State Method](https://github.com/Interview777/Interview_iOS/blob/main/AppLifeCycle%2C%20ViewStateMethod.md)|
+|1회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/3)|[Optional](https://github.com/Interview777/Interview_iOS/blob/main/Optional.md)|
+|2회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/4)|[객체지향기본](https://github.com/Interview777/Interview_iOS/blob/main/객체지향기본.md)|
+|3회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/5)|[MVC, Observer, Initilizer](https://github.com/Interview777/Interview_iOS/blob/main/MVC%2C%20Observer%2C%20Initializer.md)|
+|4회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/6)|[Struct, Class, Singleton](https://github.com/Interview777/Interview_iOS/blob/main/구조체%2C%20클래스%2C%20Singleton.md)|
+|5회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/7)|[App Life Cycle, View State Method](https://github.com/Interview777/Interview_iOS/blob/main/AppLifeCycle%2C%20ViewStateMethod.md)|
 
 ### Ver 2.0
 |주차|링크|
 |---|---|
-|1주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
-|2주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
-|3주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
-|4주차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|1회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
+|2회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
+|3회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|4회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|5회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|6회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|7회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
+|8회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/15)|
