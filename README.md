@@ -31,3 +31,9 @@
 |6회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
 |7회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
 |8회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/15)|
+|View Drawing Cycle / UIView Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
+|SwiftUI|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|Core Graphics / Core Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|User Notification / OAuth|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|Concurrency (Async Await)|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|MVVM - MVC - MVP|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
