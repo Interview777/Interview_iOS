@@ -36,8 +36,3 @@
 |Core Graphics / Core Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
 |Concurrency (Async Await)|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
 |아키텍쳐|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
-
-### Ver 3.0
-|회차|링크|
-|---|---|
-|객체지향 / MVC / Struct / Class|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
