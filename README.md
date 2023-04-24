@@ -21,16 +21,16 @@
 |5회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/7)|[App Life Cycle, View State Method](https://github.com/Interview777/Interview_iOS/blob/main/AppLifeCycle%2C%20ViewStateMethod.md)|
 
 ### Ver 2.0
-|주차|링크|
+|회차|링크|
 |---|---|
-|1회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
-|2회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
-|3회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
-|4회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
-|5회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
-|6회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
-|7회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
-|8회차|[링크](https://github.com/Interview777/Interview_iOS/discussions/15)|
+|Protocol / Delegate|[링크](https://github.com/Interview777/Interview_iOS/discussions/8)|
+|Unit Test / TDD|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
+|SOLID / OOP|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|메모리 / ARC|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|Concurrency Programming|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
+|Protocol Oriented Programming|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
+|HTTP|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
+|Cache|[링크](https://github.com/Interview777/Interview_iOS/discussions/15)|
 |View Drawing Cycle / UIView Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
 |SwiftUI|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
 |Core Graphics / Core Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
