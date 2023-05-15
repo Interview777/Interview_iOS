@@ -30,9 +30,9 @@
 |Concurrency Programming|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
 |Protocol Oriented Programming|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
 |HTTP|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
-|Cache|[링크](https://github.com/Interview777/Interview_iOS/discussions/15)|
-|View Drawing Cycle / UIView Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/9)|
-|SwiftUI|[링크](https://github.com/Interview777/Interview_iOS/discussions/10)|
-|Core Graphics / Core Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
-|Concurrency (Async Await)|[링크](https://github.com/Interview777/Interview_iOS/discussions/12)|
-|아키텍쳐|[링크](https://github.com/Interview777/Interview_iOS/discussions/14)|
+|Cache|[링크](https://github.com/Interview777/Interview_iOS/discussions/16)|
+|View Drawing Cycle / UIView Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/20)|
+|SwiftUI|[링크](https://github.com/Interview777/Interview_iOS/discussions/21)|
+|Core Graphics / Core Animation|[링크](https://github.com/Interview777/Interview_iOS/discussions/22)|
+|Concurrency (Async Await)|[링크](https://github.com/Interview777/Interview_iOS/discussions/23)|
+|아키텍쳐|[링크](https://github.com/Interview777/Interview_iOS/discussions/24)|
